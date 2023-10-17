@@ -1,0 +1,3 @@
+﻿  InfixToPofix.cpp
+C:\Users\TRISHARAN\Desktop\C++ prgs\InfixToPofix\InfixToPofix\InfixToPofix.cpp(40): warning C4715: 'pr': not all control paths return a value
+  InfixToPofix.vcxproj -> C:\Users\TRISHARAN\Desktop\C++ prgs\InfixToPofix\x64\Debug\InfixToPofix.exe
